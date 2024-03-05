@@ -1,0 +1,40 @@
+#logo{
+    width:50px;
+}
+.red_txt{
+    color:red;
+}
+.txt{
+    margin: 10px;
+}
+.card-cont{
+    display:flex;
+}
+
+.card-cont1{
+    display: flex;
+    align-items: center;
+}
+
+
+.card1-img{
+    height:300px;
+    border-radius: 20px;
+
+}
+
+.cad{
+    border:2px solid black;
+    border-radius: 20px;
+    margin:7px
+}
+
+h4{
+    margin-left:10px ;
+}
+footer{
+    background-color:azure;
+}
+.feature-icon{
+    border-radius: 7px;
+}
